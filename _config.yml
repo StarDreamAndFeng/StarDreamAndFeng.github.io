@@ -14,7 +14,7 @@ cover: /source/images/zetong-li-TbHYpbi_Gbc-unsplash.jpg
 
 # URL
 ## Set your site url here. For example, if you use GitHub Page, set url as 'https://username.github.io/project'
-url: https://localhost:4000
+url: https://stardreamandfeng.github.io
 permalink: :year/:month/:day/:title/
 permalink_defaults:
 pretty_urls:

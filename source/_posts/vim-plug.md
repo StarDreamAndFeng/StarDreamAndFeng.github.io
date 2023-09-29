@@ -4,7 +4,7 @@ date:
 updated: 
 tags: vim
 categories: linux
-cover: ./FILES/vim-plug.md/img-20230618120008.png
+cover: ../FILES/vim-plug.md/img-20230618120008.png
 ---
 
 # vim-plug 下载
